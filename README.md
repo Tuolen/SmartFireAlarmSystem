@@ -1,3 +1,5 @@
 # SmartFireAlarmSystem
 
-Our innovative system utilizes a flame sensor to detect flames of varying intensities, enabling effective fire detection and response. By analyzing the flame's strength, our system adjusts the sound of a buzzer and the water pressure from a pump accordingly. Additionally, we have incorporated serial communication, which sends instant notifications to a connected phone when a fire is detected. This integrated solution ensures prompt and tailored action in the event of a fire hazard
+The project “Smart Fire Alarm System” was an innovative embedded system designed for precise fire detection and rapid response. Utilizing a highly sensitive flame sensor, the system accurately detects varying flame intensities. Upon detection, it triggers a loud alarm through a buzzer, ensuring immediate alerting in case of fire hazards. Additionally, the system activates a water pump for fire suppression. Real-time notifications are sent to connected devices such as Mobile phones via serial communication, while a clear message indicating "A fire is detected" is displayed on an LED screen. The device offers multi-layered protection, combining visual, auditory, and remote alerts for comprehensive fire prevention. integrating cutting-edge technologies to enhance safety measures and provide timely warnings.
+
+
